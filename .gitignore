@@ -9,3 +9,11 @@ devenv.local.nix
 # pre-commit
 .pre-commit-config.yaml
 
+
+# java
+*.class
+
+# ocaml
+
+_build/
+

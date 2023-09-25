@@ -1,0 +1,16 @@
+(executable
+ (public_name l2)
+ (name main)
+ (libraries l2 menhirLib)
+ (flags
+  ()))
+
+(rule
+ (targets parser.ml parser.mli)
+ (deps parser.mly)
+ (action (run menhir --base parser %{deps})))
+
+(rule
+ (targets lexer.ml)
+ (deps lexer.mll)
+ (action (run ocamllex %{deps})))

@@ -70,4 +70,5 @@ let%test _ = pow 2 0 = 1
 let%test _ = pow 2 1 = 2
 let%test _ = pow 2 2 = 4
 let%test _ = pow 2 3 = 8
-
+let%test _ = pow 2 4 = 16
+let%test _ = pow 2 5 = 32

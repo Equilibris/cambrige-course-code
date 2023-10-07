@@ -498,39 +498,45 @@ module BinaryTree = struct
 end
 
 module AllBalancedTrees = struct
-    open BinaryTree
+    (* open BinaryTree *)
 
-    let rec cbal_tree = function
-        | 0 -> [Empty]
-        | n -> ...
+    (* let cbal_tree = function *)
+    (*     | 0 -> [Empty] *)
+    (*     | _ -> failwith "todo" *)
 
-    let%test _ = cbal_tree 4 = [
-        Node ('x',
-            Node ('x', Empty, Empty), 
-            Node ('x',
-                Node ('x', Empty, Empty),
-                Empty)
-            );
-        Node ('x',
-            Node ('x', Empty, Empty),
-            Node ('x',
-                Empty,
-                Node ('x', Empty, Empty)
-            )
-        );
-        Node ('x',
-            Node ('x',
-                Node ('x', Empty, Empty),
-                Empty
-            ),
-            Node ('x', Empty, Empty)
-        );
-        Node ('x',
-            Node ('x',
-                Empty,
-                Node ('x', Empty, Empty)
-            ),
-            Node ('x', Empty, Empty)
-        )
-    ];;
+    (* let%test _ = cbal_tree 4 = [ *)
+    (*     Node ('x', *)
+    (*         Node ('x', Empty, Empty),  *)
+    (*         Node ('x', *)
+    (*             Node ('x', Empty, Empty), *)
+    (*             Empty) *)
+    (*         ); *)
+    (*     Node ('x', *)
+    (*         Node ('x', Empty, Empty), *)
+    (*         Node ('x', *)
+    (*             Empty, *)
+    (*             Node ('x', Empty, Empty) *)
+    (*         ) *)
+    (*     ); *)
+    (*     Node ('x', *)
+    (*         Node ('x', *)
+    (*             Node ('x', Empty, Empty), *)
+    (*             Empty *)
+    (*         ), *)
+    (*         Node ('x', Empty, Empty) *)
+    (*     ); *)
+    (*     Node ('x', *)
+    (*         Node ('x', *)
+    (*             Empty, *)
+    (*             Node ('x', Empty, Empty) *)
+    (*         ), *)
+    (*         Node ('x', Empty, Empty) *)
+    (*     ) *)
+    (* ];; *)
+end
+
+module Factr = struct
+    let faci n = Array.init n (fun n -> n + 1) |> Array.fold_left ( * ) 1
+
+    let%test_unit _ = faci 3 |> Int.to_string |> print_endline;;
 end

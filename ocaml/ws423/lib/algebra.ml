@@ -43,6 +43,7 @@ module FloatMul : Group with type t = float = struct
     let invert = (/.) 1.
 end
 
+(* Lives in O(n) memory, optimize this *)
 let rec n_apply : type a. (module Monoid with type t = a) -> a -> int -> a =
     fun internal value exp -> 
         let module M = (val internal : Monoid with type t = a)
@@ -56,8 +57,9 @@ let rec n_apply : type a. (module Monoid with type t = a) -> a -> int -> a =
                     (M.op value value)
                     (exp / 2))
 
-let mul = n_apply (module IntAdd)
-let pow = n_apply (module IntMul)
+let mul  = n_apply (module IntAdd)
+let pow  = n_apply (module IntMul)
+let powf = n_apply (module FloatMul)
 
 let%test _ = mul 2 0 = 0
 let%test _ = mul 2 1 = 2
@@ -72,3 +74,27 @@ let%test _ = pow 2 2 = 4
 let%test _ = pow 2 3 = 8
 let%test _ = pow 2 4 = 16
 let%test _ = pow 2 5 = 32
+let%test _ = pow 2 12 = 4096
+
+type mat = int * int * int * int
+
+let mat_mul (a, b,
+             c, d) 
+            (e, f,
+             g, h) : mat = 
+            (a * e + b * g, a * f + b * h,
+             c * e + d * g, f * c + h * d)
+
+let%test _ = mat_mul (1, 0, 0, 1) (1, 2, 3, 4) = (1, 2, 3, 4)
+let%test _ = mat_mul (1, 2, 3, 4) (1, 0, 0, 1) = (1, 2, 3, 4)
+
+module MatMul : Monoid = struct
+    type t = mat
+
+    let unit = (1, 0, 0, 1)
+
+    let op = mat_mul
+end
+
+let mat_pow = n_apply (module MatMul)
+

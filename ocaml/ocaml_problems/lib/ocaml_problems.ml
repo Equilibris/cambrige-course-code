@@ -14,7 +14,7 @@ let rec rep v c = if c = 0 then [] else v::(c-1 |> rep v)
 
 let join sep = function
     | [] -> ""
-    | h :: t -> List.fold_left (fun a -> fun b -> a ^ sep ^ b) h t
+    | h :: t -> List.fold_left (fun a b -> a ^ sep ^ b) h t
 
 let print_ls ls = ls |> join " ; " |> (fun v -> "[" ^ v ^ "]") |> print_endline
 

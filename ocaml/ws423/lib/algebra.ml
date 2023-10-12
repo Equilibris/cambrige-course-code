@@ -43,19 +43,32 @@ module FloatMul : Group with type t = float = struct
     let invert = (/.) 1.
 end
 
-(* Lives in O(n) memory, optimize this *)
-let rec n_apply : type a. (module Monoid with type t = a) -> a -> int -> a =
+(* Lives in O(ln n) memory, optimize this *)
+let n_apply : type a. (module Monoid with type t = a) -> a -> int -> a =
     fun internal value exp -> 
         let module M = (val internal : Monoid with type t = a)
-        in if exp = 0 then
-            M.unit
-        else
-            M.op
-                (if exp mod 2 = 0 then M.unit else value)
-                (n_apply
-                    internal
-                    (M.op value value)
-                    (exp / 2))
+        in let rec aux value exp acc = 
+            if exp = 0 then acc
+            else aux
+                (M.op value value)
+                (exp / 2)
+                (if
+                    exp mod 2 = 0
+                 then acc
+                 else M.op value acc)
+        in aux value exp M.unit
+(* let rec n_apply : type a. (module Monoid with type t = a) -> a -> int -> a = *)
+(*     fun internal value exp ->  *)
+(*         let module M = (val internal : Monoid with type t = a) *)
+(*         in if exp = 0 then *)
+(*             M.unit *)
+(*         else *)
+(*             M.op *)
+(*                 (if exp mod 2 = 0 then M.unit else value) *)
+(*                 (n_apply *)
+(*                     internal *)
+(*                     (M.op value value) *)
+(*                     (exp / 2)) *)
 
 let mul  = n_apply (module IntAdd)
 let pow  = n_apply (module IntMul)
@@ -88,8 +101,10 @@ let mat_mul (a, b,
 let%test _ = mat_mul (1, 0, 0, 1) (1, 2, 3, 4) = (1, 2, 3, 4)
 let%test _ = mat_mul (1, 2, 3, 4) (1, 0, 0, 1) = (1, 2, 3, 4)
 
-module MatMul : Monoid = struct
-    type t = mat
+let enter a b c d : mat = (a,b,c,d)
+
+module MatMul : Monoid with type t = mat = struct
+    type t = int * int * int * int
 
     let unit = (1, 0, 0, 1)
 
@@ -97,4 +112,4 @@ module MatMul : Monoid = struct
 end
 
 let mat_pow = n_apply (module MatMul)
-
+let fib_base = mat_pow (1, 1, 0, 1)

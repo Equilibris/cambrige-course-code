@@ -1,0 +1,250 @@
+Mulholland Dr.|The Straight Story|Mulholland Drive|David Lynch
+Mulholland Dr.|The Straight Story|The Elephant Man|David Lynch
+Mulholland Dr.|The Straight Story|Blue Velvet|David Lynch
+Mulholland Dr.|Blue Velvet|Mulholland Drive|David Lynch
+Mulholland Dr.|Blue Velvet|The Elephant Man|David Lynch
+Mulholland Dr.|The Elephant Man|Mulholland Drive|David Lynch
+Wit|Closer|The Graduate|Mike Nichols
+All the Way|Trumbo|Meet the Parents|Jay Roach
+All the Way|Trumbo|Meet the Fockers|Jay Roach
+All the Way|Trumbo|Austin Powers: International Man of Mystery|Jay Roach
+All the Way|Trumbo|Austin Powers: The Spy Who Shagged Me|Jay Roach
+All the Way|Trumbo|Austin Powers in Goldmember|Jay Roach
+All the Way|Austin Powers in Goldmember|Meet the Parents|Jay Roach
+All the Way|Austin Powers in Goldmember|Meet the Fockers|Jay Roach
+All the Way|Austin Powers in Goldmember|Austin Powers: International Man of Mystery|Jay Roach
+All the Way|Austin Powers in Goldmember|Austin Powers: The Spy Who Shagged Me|Jay Roach
+All the Way|Austin Powers: The Spy Who Shagged Me|Meet the Parents|Jay Roach
+All the Way|Austin Powers: The Spy Who Shagged Me|Meet the Fockers|Jay Roach
+All the Way|Austin Powers: The Spy Who Shagged Me|Austin Powers: International Man of Mystery|Jay Roach
+All the Way|Austin Powers: International Man of Mystery|Meet the Parents|Jay Roach
+All the Way|Austin Powers: International Man of Mystery|Meet the Fockers|Jay Roach
+All the Way|Meet the Fockers|Meet the Parents|Jay Roach
+High and Low|Ikiru|Seven Samurai|Akira Kurosawa
+High and Low|Ikiru|Rashomon|Akira Kurosawa
+High and Low|Ikiru|Ran|Akira Kurosawa
+High and Low|Ikiru|Yojimbo|Akira Kurosawa
+High and Low|Yojimbo|Seven Samurai|Akira Kurosawa
+High and Low|Yojimbo|Rashomon|Akira Kurosawa
+High and Low|Yojimbo|Ran|Akira Kurosawa
+High and Low|Ran|Seven Samurai|Akira Kurosawa
+High and Low|Ran|Rashomon|Akira Kurosawa
+High and Low|Rashomon|Seven Samurai|Akira Kurosawa
+Official Secrets|Eye in the Sky|X-Men Origins: Wolverine|Gavin Hood
+Far from the Madding Crowd|The Celebration|The Hunt|Thomas Vinterberg
+Far from the Madding Crowd|The Celebration|Another Round|Thomas Vinterberg
+Far from the Madding Crowd|Another Round|The Hunt|Thomas Vinterberg
+The Sea Beast|Bolt|Big Hero 6|Chris Williams
+The Sea Beast|Bolt|Moana|Chris Williams
+The Sea Beast|Moana|Big Hero 6|Chris Williams
+Cats|The Danish Girl|The King's Speech|Tom Hooper
+Cats|The Danish Girl|Les Misérables|Tom Hooper
+Cats|Les Misérables|The King's Speech|Tom Hooper
+Detroit|Zero Dark Thirty|The Hurt Locker|Kathryn Bigelow
+Sanju|Munna Bhai M.B.B.S.|3 Idiots|Rajkumar Hirani
+Sanju|Munna Bhai M.B.B.S.|PK|Rajkumar Hirani
+Sanju|PK|3 Idiots|Rajkumar Hirani
+Special 26|Baby|A Wednesday|Neeraj Pandey
+Special 26|Baby|M.S. Dhoni: The Untold Story|Neeraj Pandey
+Special 26|M.S. Dhoni: The Untold Story|A Wednesday|Neeraj Pandey
+The Light Between Oceans|Blue Valentine|The Place Beyond the Pines|Derek Cianfrance
+Baby|M.S. Dhoni: The Untold Story|A Wednesday|Neeraj Pandey
+The Upside|The Illusionist|Limitless|Neil Burger
+Thirteen Lives|Cinderella Man|A Beautiful Mind|Ron Howard
+Thirteen Lives|Cinderella Man|Rush|Ron Howard
+Thirteen Lives|Cinderella Man|The Da Vinci Code|Ron Howard
+Thirteen Lives|Cinderella Man|Apollo 13|Ron Howard
+Thirteen Lives|Cinderella Man|Angels & Demons|Ron Howard
+Thirteen Lives|Cinderella Man|How the Grinch Stole Christmas|Ron Howard
+Thirteen Lives|How the Grinch Stole Christmas|A Beautiful Mind|Ron Howard
+Thirteen Lives|How the Grinch Stole Christmas|Rush|Ron Howard
+Thirteen Lives|How the Grinch Stole Christmas|The Da Vinci Code|Ron Howard
+Thirteen Lives|How the Grinch Stole Christmas|Apollo 13|Ron Howard
+Thirteen Lives|How the Grinch Stole Christmas|Angels & Demons|Ron Howard
+Thirteen Lives|Angels & Demons|A Beautiful Mind|Ron Howard
+Thirteen Lives|Angels & Demons|Rush|Ron Howard
+Thirteen Lives|Angels & Demons|The Da Vinci Code|Ron Howard
+Thirteen Lives|Angels & Demons|Apollo 13|Ron Howard
+Thirteen Lives|Apollo 13|A Beautiful Mind|Ron Howard
+Thirteen Lives|Apollo 13|Rush|Ron Howard
+Thirteen Lives|Apollo 13|The Da Vinci Code|Ron Howard
+Thirteen Lives|The Da Vinci Code|A Beautiful Mind|Ron Howard
+Thirteen Lives|The Da Vinci Code|Rush|Ron Howard
+Thirteen Lives|Rush|A Beautiful Mind|Ron Howard
+Force Majeure|The Square|Triangle of Sadness|Ruben Östlund
+The Legend of 1900|The Best Offer|Cinema Paradiso|Giuseppe Tornatore
+Elle|Basic Instinct|Total Recall|Paul Verhoeven
+Elle|Basic Instinct|Starship Troopers|Paul Verhoeven
+Elle|Basic Instinct|RoboCop|Paul Verhoeven
+Elle|RoboCop|Total Recall|Paul Verhoeven
+Elle|RoboCop|Starship Troopers|Paul Verhoeven
+Elle|Starship Troopers|Total Recall|Paul Verhoeven
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Sucker Punch|300|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Sucker Punch|Man of Steel|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Sucker Punch|Batman v Superman: Dawn of Justice|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Sucker Punch|Watchmen|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Sucker Punch|Zack Snyder's Justice League|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Sucker Punch|Dawn of the Dead|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Dawn of the Dead|300|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Dawn of the Dead|Man of Steel|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Dawn of the Dead|Batman v Superman: Dawn of Justice|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Dawn of the Dead|Watchmen|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Dawn of the Dead|Zack Snyder's Justice League|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Zack Snyder's Justice League|300|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Zack Snyder's Justice League|Man of Steel|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Zack Snyder's Justice League|Batman v Superman: Dawn of Justice|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Zack Snyder's Justice League|Watchmen|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Watchmen|300|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Watchmen|Man of Steel|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Watchmen|Batman v Superman: Dawn of Justice|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Batman v Superman: Dawn of Justice|300|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Batman v Superman: Dawn of Justice|Man of Steel|Zack Snyder
+Batman v Superman: Dawn of Justice (Ultimate Edition)|Man of Steel|300|Zack Snyder
+Just Mercy|Short Term 12|Shang-Chi and the Legend of the Ten Rings|Destin Daniel Cretton
+The King of Staten Island|Knocked Up|The 40-Year-Old Virgin|Judd Apatow
+Only the Brave|TRON: Legacy|Top Gun: Maverick|Joseph Kosinski
+Only the Brave|TRON: Legacy|Oblivion|Joseph Kosinski
+Only the Brave|Oblivion|Top Gun: Maverick|Joseph Kosinski
+A Dog's Purpose|The Hundred-Foot Journey|Hachi: A Dog's Tale|Lasse Hallström
+A Dog's Purpose|The Hundred-Foot Journey|What's Eating Gilbert Grape|Lasse Hallström
+A Dog's Purpose|What's Eating Gilbert Grape|Hachi: A Dog's Tale|Lasse Hallström
+Sing 2|Sing|The Hitchhiker's Guide to the Galaxy|Garth Jennings
+Christopher Robin|A Man Called Otto|World War Z|Marc Forster
+Christopher Robin|A Man Called Otto|Quantum of Solace|Marc Forster
+Christopher Robin|A Man Called Otto|Stranger Than Fiction|Marc Forster
+Christopher Robin|A Man Called Otto|Finding Neverland|Marc Forster
+Christopher Robin|Finding Neverland|World War Z|Marc Forster
+Christopher Robin|Finding Neverland|Quantum of Solace|Marc Forster
+Christopher Robin|Finding Neverland|Stranger Than Fiction|Marc Forster
+Christopher Robin|Stranger Than Fiction|World War Z|Marc Forster
+Christopher Robin|Stranger Than Fiction|Quantum of Solace|Marc Forster
+Christopher Robin|Quantum of Solace|World War Z|Marc Forster
+Ikiru|Yojimbo|Seven Samurai|Akira Kurosawa
+Ikiru|Yojimbo|Rashomon|Akira Kurosawa
+Ikiru|Yojimbo|Ran|Akira Kurosawa
+Ikiru|Ran|Seven Samurai|Akira Kurosawa
+Ikiru|Ran|Rashomon|Akira Kurosawa
+Ikiru|Rashomon|Seven Samurai|Akira Kurosawa
+Trumbo|Austin Powers in Goldmember|Meet the Parents|Jay Roach
+Trumbo|Austin Powers in Goldmember|Meet the Fockers|Jay Roach
+Trumbo|Austin Powers in Goldmember|Austin Powers: International Man of Mystery|Jay Roach
+Trumbo|Austin Powers in Goldmember|Austin Powers: The Spy Who Shagged Me|Jay Roach
+Trumbo|Austin Powers: The Spy Who Shagged Me|Meet the Parents|Jay Roach
+Trumbo|Austin Powers: The Spy Who Shagged Me|Meet the Fockers|Jay Roach
+Trumbo|Austin Powers: The Spy Who Shagged Me|Austin Powers: International Man of Mystery|Jay Roach
+Trumbo|Austin Powers: International Man of Mystery|Meet the Parents|Jay Roach
+Trumbo|Austin Powers: International Man of Mystery|Meet the Fockers|Jay Roach
+Trumbo|Meet the Fockers|Meet the Parents|Jay Roach
+Fruitvale Station|Creed|Black Panther|Ryan Coogler
+Munna Bhai M.B.B.S.|PK|3 Idiots|Rajkumar Hirani
+The Hundred-Foot Journey|What's Eating Gilbert Grape|Hachi: A Dog's Tale|Lasse Hallström
+The Covenant|Wrath of Man|Snatch|Guy Ritchie
+The Covenant|Wrath of Man|Sherlock Holmes|Guy Ritchie
+The Covenant|Wrath of Man|Lock, Stock and Two Smoking Barrels|Guy Ritchie
+The Covenant|Wrath of Man|Sherlock Holmes: A Game of Shadows|Guy Ritchie
+The Covenant|Wrath of Man|The Gentlemen|Guy Ritchie
+The Covenant|Wrath of Man|The Man from U.N.C.L.E.|Guy Ritchie
+The Covenant|Wrath of Man|Aladdin|Guy Ritchie
+The Covenant|Wrath of Man|RocknRolla|Guy Ritchie
+The Covenant|RocknRolla|Snatch|Guy Ritchie
+The Covenant|RocknRolla|Sherlock Holmes|Guy Ritchie
+The Covenant|RocknRolla|Lock, Stock and Two Smoking Barrels|Guy Ritchie
+The Covenant|RocknRolla|Sherlock Holmes: A Game of Shadows|Guy Ritchie
+The Covenant|RocknRolla|The Gentlemen|Guy Ritchie
+The Covenant|RocknRolla|The Man from U.N.C.L.E.|Guy Ritchie
+The Covenant|RocknRolla|Aladdin|Guy Ritchie
+The Covenant|Aladdin|Snatch|Guy Ritchie
+The Covenant|Aladdin|Sherlock Holmes|Guy Ritchie
+The Covenant|Aladdin|Lock, Stock and Two Smoking Barrels|Guy Ritchie
+The Covenant|Aladdin|Sherlock Holmes: A Game of Shadows|Guy Ritchie
+The Covenant|Aladdin|The Gentlemen|Guy Ritchie
+The Covenant|Aladdin|The Man from U.N.C.L.E.|Guy Ritchie
+The Covenant|The Man from U.N.C.L.E.|Snatch|Guy Ritchie
+The Covenant|The Man from U.N.C.L.E.|Sherlock Holmes|Guy Ritchie
+The Covenant|The Man from U.N.C.L.E.|Lock, Stock and Two Smoking Barrels|Guy Ritchie
+The Covenant|The Man from U.N.C.L.E.|Sherlock Holmes: A Game of Shadows|Guy Ritchie
+The Covenant|The Man from U.N.C.L.E.|The Gentlemen|Guy Ritchie
+The Covenant|The Gentlemen|Snatch|Guy Ritchie
+The Covenant|The Gentlemen|Sherlock Holmes|Guy Ritchie
+The Covenant|The Gentlemen|Lock, Stock and Two Smoking Barrels|Guy Ritchie
+The Covenant|The Gentlemen|Sherlock Holmes: A Game of Shadows|Guy Ritchie
+The Covenant|Sherlock Holmes: A Game of Shadows|Snatch|Guy Ritchie
+The Covenant|Sherlock Holmes: A Game of Shadows|Sherlock Holmes|Guy Ritchie
+The Covenant|Sherlock Holmes: A Game of Shadows|Lock, Stock and Two Smoking Barrels|Guy Ritchie
+The Covenant|Lock, Stock and Two Smoking Barrels|Snatch|Guy Ritchie
+The Covenant|Lock, Stock and Two Smoking Barrels|Sherlock Holmes|Guy Ritchie
+The Covenant|Sherlock Holmes|Snatch|Guy Ritchie
+West Side Story|The Fabelmans|Saving Private Ryan|Steven Spielberg
+West Side Story|The Fabelmans|Schindler's List|Steven Spielberg
+West Side Story|The Fabelmans|Catch Me If You Can|Steven Spielberg
+West Side Story|The Fabelmans|Jurassic Park|Steven Spielberg
+West Side Story|The Fabelmans|Raiders of the Lost Ark|Steven Spielberg
+West Side Story|The Fabelmans|Indiana Jones and the Last Crusade|Steven Spielberg
+West Side Story|The Fabelmans|Jaws|Steven Spielberg
+West Side Story|The Fabelmans|Minority Report|Steven Spielberg
+West Side Story|The Fabelmans|Indiana Jones and the Temple of Doom|Steven Spielberg
+West Side Story|The Fabelmans|Indiana Jones and the Kingdom of the Crystal Skull|Steven Spielberg
+West Side Story|The Fabelmans|The Terminal|Steven Spielberg
+West Side Story|The Fabelmans|War of the Worlds|Steven Spielberg
+West Side Story|The Fabelmans|Ready Player One|Steven Spielberg
+West Side Story|The Fabelmans|The Lost World: Jurassic Park|Steven Spielberg
+West Side Story|The Fabelmans|E.T. the Extra-Terrestrial|Steven Spielberg
+West Side Story|The Fabelmans|Bridge of Spies|Steven Spielberg
+West Side Story|The Fabelmans|A.I. Artificial Intelligence|Steven Spielberg
+West Side Story|The Fabelmans|Lincoln|Steven Spielberg
+West Side Story|The Fabelmans|Hook|Steven Spielberg
+West Side Story|The Fabelmans|The Adventures of Tintin|Steven Spielberg
+West Side Story|The Fabelmans|Munich|Steven Spielberg
+West Side Story|The Fabelmans|Close Encounters of the Third Kind|Steven Spielberg
+West Side Story|The Fabelmans|The Post|Steven Spielberg
+West Side Story|The Post|Saving Private Ryan|Steven Spielberg
+West Side Story|The Post|Schindler's List|Steven Spielberg
+West Side Story|The Post|Catch Me If You Can|Steven Spielberg
+West Side Story|The Post|Jurassic Park|Steven Spielberg
+West Side Story|The Post|Raiders of the Lost Ark|Steven Spielberg
+West Side Story|The Post|Indiana Jones and the Last Crusade|Steven Spielberg
+West Side Story|The Post|Jaws|Steven Spielberg
+West Side Story|The Post|Minority Report|Steven Spielberg
+West Side Story|The Post|Indiana Jones and the Temple of Doom|Steven Spielberg
+West Side Story|The Post|Indiana Jones and the Kingdom of the Crystal Skull|Steven Spielberg
+West Side Story|The Post|The Terminal|Steven Spielberg
+West Side Story|The Post|War of the Worlds|Steven Spielberg
+West Side Story|The Post|Ready Player One|Steven Spielberg
+West Side Story|The Post|The Lost World: Jurassic Park|Steven Spielberg
+West Side Story|The Post|E.T. the Extra-Terrestrial|Steven Spielberg
+West Side Story|The Post|Bridge of Spies|Steven Spielberg
+West Side Story|The Post|A.I. Artificial Intelligence|Steven Spielberg
+West Side Story|The Post|Lincoln|Steven Spielberg
+West Side Story|The Post|Hook|Steven Spielberg
+West Side Story|The Post|The Adventures of Tintin|Steven Spielberg
+West Side Story|The Post|Munich|Steven Spielberg
+West Side Story|The Post|Close Encounters of the Third Kind|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Saving Private Ryan|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Schindler's List|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Catch Me If You Can|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Jurassic Park|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Raiders of the Lost Ark|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Indiana Jones and the Last Crusade|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Jaws|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Minority Report|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Indiana Jones and the Temple of Doom|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Indiana Jones and the Kingdom of the Crystal Skull|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|The Terminal|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|War of the Worlds|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Ready Player One|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|The Lost World: Jurassic Park|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|E.T. the Extra-Terrestrial|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Bridge of Spies|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|A.I. Artificial Intelligence|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Lincoln|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Hook|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|The Adventures of Tintin|Steven Spielberg
+West Side Story|Close Encounters of the Third Kind|Munich|Steven Spielberg
+West Side Story|Munich|Saving Private Ryan|Steven Spielberg
+West Side Story|Munich|Schindler's List|Steven Spielberg
+West Side Story|Munich|Catch Me If You Can|Steven Spielberg
+West Side Story|Munich|Jurassic Park|Steven Spielberg
+West Side Story|Munich|Raiders of the Lost Ark|Steven Spielberg
+West Side Story|Munich|Indiana Jones and the Last Crusade|Steven Spielberg
+West Side Story|Munich|Jaws|Steven Spielberg
+West Side Story|Munich|Minority Report|Steven Spielberg

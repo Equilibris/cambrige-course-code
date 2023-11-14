@@ -1,4 +1,0 @@
-(executable
- (public_name foundations_of_computing)
- (name main)
- (libraries foundations_of_computing))

@@ -1,5 +1,9 @@
 { pkgs, ... }:
 
+let
+  deps = ppkgs: with ppkgs; [ tinydb ];
+  py = pkgs.python3.withPackages deps;
+in
 {
   # https://devenv.sh/basics/
   env.GREET = "devenv";
@@ -9,17 +13,15 @@
     pkgs.git
     pkgs.ocamlPackages.ppx_inline_test
     pkgs.opam
+    pkgs.gnumake
+    pkgs.sqlite
   ];
 
-  # https://devenv.sh/scripts/
-  scripts.hello.exec = "echo hello from $GREET";
-
-  enterShell = ''
-    hello
-    git --version
-  '';
+  enterShell = "";
 
   # https://devenv.sh/languages/
+  languages.python.enable = true;
+  languages.python.package = py;
   languages.java.enable = true;
   languages.ocaml = {
     enable = true;
